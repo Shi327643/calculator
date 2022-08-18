@@ -11,6 +11,8 @@ public class Calculator {
 		System.out.println("Multiplication");
 		
 		math.multiply(23,8);
+		
+		math.subtract(25,21);
 	}
 	
 
